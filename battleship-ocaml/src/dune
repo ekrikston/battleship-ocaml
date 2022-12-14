@@ -1,0 +1,6 @@
+(library
+ (name battleship)
+ (public_name Battleship)
+ (libraries yojson ANSITerminal)
+ (instrumentation
+  (backend bisect_ppx)))

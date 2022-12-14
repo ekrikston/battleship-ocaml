@@ -1,0 +1,111 @@
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:1:board1 is not blank.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:1:board1 is not blank is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:1:board1 is not blank.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:3:board0 string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:3:board0 string array array representation is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:3:board0 string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:5:board2 string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:5:board2 string array array representation is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:5:board2 string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:7:board0 list of placed boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:7:board0 list of placed boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:7:board0 list of placed boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:9:board2 list of placed boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:9:board2 list of placed boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:9:board2 list of placed boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:11:board4 list of placed boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:11:board4 list of placed boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:11:board4 list of placed boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:13:board2 has no sunk boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:13:board2 has no sunk boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:13:board2 has no sunk boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:14:board3 has sunk boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:14:board3 has sunk boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:14:board3 has sunk boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:17:input for adding boat contains no space.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:17:input for adding boat contains no space is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:17:input for adding boat contains no space.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:19:input for adding boat contains column that doesn't exist.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:19:input for adding boat contains column that doesn't exist is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:19:input for adding boat contains column that doesn't exist.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:21:input for adding boat overlaps with already existing boat.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:21:input for adding boat overlaps with already existing boat is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:21:input for adding boat overlaps with already existing boat.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:23:board2 after a single guess.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:23:board2 after a single guess is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:23:board2 after a single guess.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:25:input for guessing coordinate contains invalid row.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:25:input for guessing coordinate contains invalid row is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:25:input for guessing coordinate contains invalid row.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:26:input for guessing coordinate starts with a space.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:26:input for guessing coordinate starts with a space is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:26:input for guessing coordinate starts with a space.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:29:input for guessing coordinate contains int larger than 10.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:29:input for guessing coordinate contains int larger than 10 is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:29:input for guessing coordinate contains int larger than 10.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:31:no boat has just been sunk for board0.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:31:no boat has just been sunk for board0 is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:31:no boat has just been sunk for board0.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:32:no boat has just been sunk for board4.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:32:no boat has just been sunk for board4 is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:32:no boat has just been sunk for board4.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:34:a boat will not be hit for board4 with coordinate A6.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:34:a boat will not be hit for board4 with coordinate A6 is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:34:a boat will not be hit for board4 with coordinate A6.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:37:input for adding boat contains boat that doesn't exist.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:37:input for adding boat contains boat that doesn't exist is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:37:input for adding boat contains boat that doesn't exist.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:38:input for adding boat contains row that doesn't exist.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:38:input for adding boat contains row that doesn't exist is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:38:input for adding boat contains row that doesn't exist.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:41:input for adding boat contains integer for row and integer for column.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:41:input for adding boat contains integer for row and integer for column is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:41:input for adding boat contains integer for row and integer for column.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:42:input for adding boat incorrectly contains character for column.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:42:input for adding boat incorrectly contains character for column is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:42:input for adding boat incorrectly contains character for column.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:45:state0 has no sunk boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:45:state0 has no sunk boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:45:state0 has no sunk boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:46:input for guessing coordinate contains a space.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:46:input for guessing coordinate contains a space is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:46:input for guessing coordinate contains a space.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:49:input for guessing coordinate contains invalid column.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:49:input for guessing coordinate contains invalid column is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:49:input for guessing coordinate contains invalid column.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:50:input for guessing coordinate is empty.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:50:input for guessing coordinate is empty is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:50:input for guessing coordinate is empty.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:53:board1 player board string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:53:board1 player board string array array representation is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:53:board1 player board string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:54:board0 computer board string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:54:board0 computer board string array array representation is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:54:board0 computer board string array array representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:57:state4 has one sunk boat.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:57:state4 has one sunk boat is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:57:state4 has one sunk boat.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:58:state0 has no placed player boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:58:state0 has no placed player boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:58:state0 has no placed player boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:60:coordinate B7 guessed against computer in state2 will result in a 
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I:             hit.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:60:coordinate B7 guessed against computer in state2 will result in a 
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I:             hit is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:60:coordinate B7 guessed against computer in state2 will result in a 
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I:             hit.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:63:number greater than 14.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:63:number greater than 14 is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:63:number greater than 14.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:64:empty input for choosing board.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:64:empty input for choosing board is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:64:empty input for choosing board.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:66:state7 is the state after state6 has had a guess made against the computer.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:66:state7 is the state after state6 has had a guess made against the computer is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:66:state7 is the state after state6 has had a guess made against the computer.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:69:board6 list of boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:69:board6 list of boats is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:69:board6 list of boats.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Start test full test suite:70:state8 computer board in the player view with a string list list representation.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: Test full test suite:70:state8 computer board in the player view with a string list list representation is successful.
+2022-12-13T21:57:41+00:00 Divyas-MacBook-Pro.local#02 I: End test full test suite:70:state8 computer board in the player view with a string list list representation.

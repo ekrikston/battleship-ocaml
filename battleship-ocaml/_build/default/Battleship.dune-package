@@ -1,0 +1,70 @@
+(lang dune 3.4)
+(name Battleship)
+(sections (lib .) (libexec .) (doc ../../doc/Battleship))
+(files
+ (lib
+  (META
+   battleship.a
+   battleship.cma
+   battleship.cmi
+   battleship.cmt
+   battleship.cmx
+   battleship.cmxa
+   battleship.ml
+   battleship__Board.cmi
+   battleship__Board.cmt
+   battleship__Board.cmti
+   battleship__Board.cmx
+   battleship__Game.cmi
+   battleship__Game.cmt
+   battleship__Game.cmti
+   battleship__Game.cmx
+   battleship__Opponent.cmi
+   battleship__Opponent.cmt
+   battleship__Opponent.cmti
+   battleship__Opponent.cmx
+   board.ml
+   board.mli
+   dune-package
+   game.ml
+   game.mli
+   opam
+   opponent.ml
+   opponent.mli))
+ (libexec (battleship.cmxs))
+ (doc (README.md)))
+(library
+ (name Battleship)
+ (kind normal)
+ (archives (byte battleship.cma) (native battleship.cmxa))
+ (plugins (byte battleship.cma) (native battleship.cmxs))
+ (native_archives battleship.a)
+ (requires yojson ANSITerminal)
+ (main_module_name Battleship)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Battleship)
+   (modules
+    ((name Board)
+     (obj_name battleship__Board)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Game)
+     (obj_name battleship__Game)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Opponent)
+     (obj_name battleship__Opponent)
+     (visibility public)
+     (impl)
+     (intf)))
+   (alias_module
+    (name Battleship)
+    (obj_name battleship)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

@@ -1,0 +1,10 @@
+(** @canonical Battleship.Board *)
+module Board = Battleship__Board
+
+
+(** @canonical Battleship.Game *)
+module Game = Battleship__Game
+
+
+(** @canonical Battleship.Opponent *)
+module Opponent = Battleship__Opponent

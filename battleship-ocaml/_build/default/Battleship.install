@@ -1,0 +1,36 @@
+lib: [
+  "_build/install/default/lib/Battleship/META"
+  "_build/install/default/lib/Battleship/battleship.a"
+  "_build/install/default/lib/Battleship/battleship.cma"
+  "_build/install/default/lib/Battleship/battleship.cmi"
+  "_build/install/default/lib/Battleship/battleship.cmt"
+  "_build/install/default/lib/Battleship/battleship.cmx"
+  "_build/install/default/lib/Battleship/battleship.cmxa"
+  "_build/install/default/lib/Battleship/battleship.ml"
+  "_build/install/default/lib/Battleship/battleship__Board.cmi"
+  "_build/install/default/lib/Battleship/battleship__Board.cmt"
+  "_build/install/default/lib/Battleship/battleship__Board.cmti"
+  "_build/install/default/lib/Battleship/battleship__Board.cmx"
+  "_build/install/default/lib/Battleship/battleship__Game.cmi"
+  "_build/install/default/lib/Battleship/battleship__Game.cmt"
+  "_build/install/default/lib/Battleship/battleship__Game.cmti"
+  "_build/install/default/lib/Battleship/battleship__Game.cmx"
+  "_build/install/default/lib/Battleship/battleship__Opponent.cmi"
+  "_build/install/default/lib/Battleship/battleship__Opponent.cmt"
+  "_build/install/default/lib/Battleship/battleship__Opponent.cmti"
+  "_build/install/default/lib/Battleship/battleship__Opponent.cmx"
+  "_build/install/default/lib/Battleship/board.ml"
+  "_build/install/default/lib/Battleship/board.mli"
+  "_build/install/default/lib/Battleship/dune-package"
+  "_build/install/default/lib/Battleship/game.ml"
+  "_build/install/default/lib/Battleship/game.mli"
+  "_build/install/default/lib/Battleship/opam"
+  "_build/install/default/lib/Battleship/opponent.ml"
+  "_build/install/default/lib/Battleship/opponent.mli"
+]
+libexec: [
+  "_build/install/default/lib/Battleship/battleship.cmxs"
+]
+doc: [
+  "_build/install/default/doc/Battleship/README.md"
+]

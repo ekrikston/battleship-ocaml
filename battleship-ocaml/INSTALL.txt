@@ -1,0 +1,29 @@
+First, open a terminal which supports OCAML.
+
+There is an OPAM package that needs to be installed to play this game. 
+Start by updating opam with the following line:
+
+  $ opam update
+
+This command may take some time to complete, during which there will be no output. 
+This especially happens on WSL1, where I've seen it take 10+ minutes.
+
+If it afterwards prompts you to upgrade already-installed packages 
+(which it very likely will), do so with the following line:
+
+  $ opam upgrade
+
+If that tells you "Everything is as up-to-date as possible [...] Nothing to do", 
+with a lot of output in place of that "...", then don't worry: everything is fine. 
+
+Finally install ANSITerminal:
+
+  $ opam install ANSITerminal
+
+Next, in the terminal navigate to the correct directory that has the zip file. 
+
+  $ cd <name of zip file>
+
+Finally to start the game use the following command:
+
+  $ make play
